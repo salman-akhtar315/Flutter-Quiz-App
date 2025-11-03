@@ -1,5 +1,3 @@
-// quiz_app.dart
-
 import 'package:flutter/material.dart';
 import 'data/questions.dart';
 import 'widgets/question_screen.dart';

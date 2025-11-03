@@ -1,5 +1,3 @@
-// main.dart
-
 import 'package:flutter/material.dart';
 import 'quiz_app.dart';
 

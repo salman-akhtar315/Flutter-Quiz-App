@@ -1,5 +1,3 @@
-// widgets/question_screen.dart
-
 import 'package:flutter/material.dart';
 
 class QuestionScreen extends StatelessWidget {
